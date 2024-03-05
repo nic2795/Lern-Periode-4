@@ -33,6 +33,13 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 Testfall-Nummer
 - [1] API Vorhanden, API einsetzen, API funktioniert
 
+✍️ Heute habe ich weiter an der API für meinen Währungsrechner gearbeitet. Ich habe eine passende API gefunden, welche auch gratis ist. Ich habe sie in meinen Code eingesetzt, jedoch funktioniert dies noch nicht ganz. Es hat noch einen kleinen Fehler, wo ich aber noch nicht weiss wie ich diesen beheben kann. (51 Wörter)
+
+## 12.03.2024
+- [ ] API zum Code anpassen
+- [ ] Code auf Github
+- [ ] Webseite erneut veröffentlichen
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 Reflexion
