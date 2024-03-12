@@ -40,6 +40,13 @@ Testfall-Nummer
 - [ ] Code auf Github
 - [ ] Webseite erneut veröffentlichen
 
+✍️ Heute habe ich an meiber API gearbeitet. Ich habe nochmals alles von der API gelöscht und neu gemacht, jedoch funktioniert sie immer noch nicht. ICh denke es liegt an irgendwelchen Einstellungen. ICh werde dies jedoch diese Woche noch machen und den Code auf Github hochladen. (45 Wörter)
+
+## 19.03.2024
+- [ ] API zum Code anpassen
+- [ ] Code auf Github
+- [ ] Webseite erneut veröffentlichen
+      
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 Reflexion
