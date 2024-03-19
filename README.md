@@ -47,7 +47,12 @@ Testfall-Nummer
 - [ ] Code auf Github
 - [ ] Webseite erneut veröffentlichen
       
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+✍️ Heute habe ich meine API fertiggestellt, was noch etwas länger gedauert hat als ich mir vorgestellt habe. Ich hatte noch ein Paar kleinere Probleme, die ich aber relativ schnell lösen konnte. Ausserdem habe ich meinen Code auf Github hochgeladen. Und die Webseite erneut veröffentlicht. (44 Wörter)
+
+## 26.03.2024
+- [ ] Auftrag aus Modul 187
+- [ ] Auftrag aus Modul 106
+- [ ] Aufträge auf Github
 
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
