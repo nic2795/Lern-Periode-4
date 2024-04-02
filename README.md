@@ -59,8 +59,12 @@ Testfall-Nummer
 
 ✍️ Heute habe ich an den Aufträgen 0714 und 0715 im Modul 187 gearbeitet und habe vieles neues über Benutzergruppen und Ergonomie in der Informatik gelernt. Ausserdem habe ich an den Aufträgen 2406 und 2407 im Modul 106 gearbeitet. Dort habe ich mein Wissen zu SQL erweitert, vor allem im Bereich Joins. (51 Wörter)
 
-## 26.03.2024
-- [ ] 
+## 02.04.2024
+- [ ] Aufträge aus Modul 187
+- [ ] Aufträge aus Modul 106
+- [ ] Aufträge auf Github
+
+ Heute habe ich die Aufträge 0717 und 0718 aus dem Modul 187 gelöst und diese auf Moodel abgegeben. Ausserdem habe ich im Modul 106 die Auftröge 2409 und 2410 gelöst und aud Moodel abgegeben.
 
 
 Reflexion
